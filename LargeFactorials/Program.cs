@@ -3,6 +3,7 @@
 namespace LargeFactorials
 {
     // https://www.codewars.com/kata/557f6437bf8dcdd135000010/train/csharp
+
     class Program
     {
         static void Main(string[] args)
