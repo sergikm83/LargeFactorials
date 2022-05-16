@@ -10,5 +10,10 @@ namespace LargeFactorials
         {
             Console.WriteLine("Hello World!");
         }
+        public static string Factorial(int n)
+        {
+            return "";
+        }
     }
+
 }
