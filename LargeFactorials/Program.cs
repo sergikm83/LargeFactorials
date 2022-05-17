@@ -10,8 +10,8 @@ namespace LargeFactorials
     {
         static void Main(string[] args)
         {
-            for (int i = 1; i < 150; i++)
-                Console.WriteLine($"{i:00}! = {Factorial(i)}");
+            int i = 987;
+            Console.WriteLine($"{i:00}! = {Factorial(i)}");
         }
         // функция вычисления факторила
         public static string Factorial(int n)
